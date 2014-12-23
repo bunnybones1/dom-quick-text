@@ -7,7 +7,6 @@ function DomQuickText(str) {
 
 DomQuickText.prototype = {
 	update: function(str) {
-		console.log('wtf');
 		this.textElement.textContent = str;
 	}
 }
