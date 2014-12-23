@@ -1,6 +1,6 @@
 {
   "name": "dom-quick-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick way to make updatable basic text lines on the DOM.",
   "main": "index.js",
   "license": "MIT",
